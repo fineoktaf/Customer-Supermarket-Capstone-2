@@ -11,7 +11,7 @@ Analyze spending patterns by product category to prioritize promotions on high-d
 Understand customer demographics, such as income levels and marital status, to create more targeted and effective campaigns.
 
 # Supermarket Customers Data Dictionary
-- People
+# People
 ID:Customer's unique identifier
 Year_Birth: Customer's birth year
 Education: Customer's education level
@@ -22,7 +22,8 @@ Teenhome: Number of teenagers in customer's household
 Dt_Customer: Date of customer's enrollment with the company
 Recency: Number of days since customer's last purchase
 Complain: 1 if the customer complained in the last 2 years, 0 otherwise
-Products
+
+# Products
 
 MntWines: Amount spent on wine in last 2 years
 MntFruits: Amount spent on fruits in last 2 years
@@ -30,7 +31,8 @@ MntMeatProducts: Amount spent on meat in last 2 years
 MntFishProducts: Amount spent on fish in last 2 years
 MntSweetProducts: Amount spent on sweets in last 2 years
 MntGoldProds: Amount spent on gold in last 2 years
-Promotion
+
+# Promotion
 
 NumDealsPurchases: Number of purchases made with a discount
 AcceptedCmp1: 1 if the customer accepted the offer in the 1st campaign, 0 otherwise
@@ -39,18 +41,38 @@ AcceptedCmp3: 1 if the customer accepted the offer in the 3rd campaign, 0 otherw
 AcceptedCmp4: 1 if the customer accepted the offer in the 4th campaign, 0 otherwise
 AcceptedCmp5: 1 if the customer accepted the offer in the 5th campaign, 0 otherwise
 Response: 1 if the customer accepted the offer in the last campaign, 0 otherwise
-Place
+
+# Place
 
 NumWebPurchases: Number of purchases made through the company’s website
 NumCatalogPurchases: Number of purchases made using a catalog
 NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to the company’s website in the last mont
-Z-score
+
+# Z-score
 
 Z_CostContact = menunjukkan biaya atau pengeluaran dalam bentuk Z-score, mengindikasikan seberapa besar pengeluaran dibandingkan dengan rata-rata biaya
 Z_Revenue = menunjukkan pendapatan pelanggan dalam bentuk Z-score, mengindikasikan seberapa besar pendapatan tersebut dibandingkan dengan rata-rata.
-additional :
+
+# additional :
 
 age colomn
 household
 rfm score
+income group
+age group
+
+# Library that we need :
+![image](https://github.com/user-attachments/assets/fde67d37-1660-4632-a5ca-80f640ec2fb5)
+
+# Data frame
+![image](https://github.com/user-attachments/assets/c08b38eb-b852-4e7c-8cd8-2109e751042c)
+
+# Link Tableau 
+https://public.tableau.com/app/profile/fine.oktafiani/viz/Capstone2_Supermarket/Story1?publish=yes
+![image](https://github.com/user-attachments/assets/5b3263ad-1f47-47d2-bdd7-a5558e3cbae6)
+
+
+
+
+

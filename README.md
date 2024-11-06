@@ -1,17 +1,17 @@
-Background
+# Background :
 In a highly competitive retail market, effective campaign strategies are essential for driving customer engagement, increasing sales, and enhancing brand loyalty. With the increasing diversity of shopping platforms and customer preferences, it is crucial to understand which channels and products generate the most engagement. This analysis aims to optimize marketing campaigns by examining customer behavior across different platforms and demographics to identify areas for improvement.
 
-Problem Statement :
+# Problem Statement :
 Despite previous campaign efforts, engagement and acceptance rates vary significantly across customer segments and platforms. Key challenges include understanding which campaigns have the highest impact, identifying the most effective shopping platform, and determining how demographic factors like income and marital status influence campaign responses. Addressing these gaps can improve targeting and increase overall campaign effectiveness.
 
-Analysis Objectives:
+# Analysis Objectives:
 Identify which campaign strategies have been most effective to replicate successful tactics.
 Determine the most popular shopping platform to focus campaign efforts accordingly.
 Analyze spending patterns by product category to prioritize promotions on high-demand items.
 Understand customer demographics, such as income levels and marital status, to create more targeted and effective campaigns.
-Supermarket Customers Data Dictionary
-People
 
+# Supermarket Customers Data Dictionary
+- People
 ID:Customer's unique identifier
 Year_Birth: Customer's birth year
 Education: Customer's education level
